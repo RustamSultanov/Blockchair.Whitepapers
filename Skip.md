@@ -76,6 +76,7 @@
 | Aether United |  |  | http://aetherunited.com/ | N/P* | NOT FOUND |
 | Akasha |  |  | https://akasha.world/ | N/P* | NOT FOUND |
 | Algo Land |  |  | https://www.algo.land/ | N/P* | NOT FOUND |
+| AntiqMall |  |  | https://antiqmall-ico.io/en | N/P* | NOT FOUND |
 | Arbi |  |  | http://arbi.expert/en/ | N/P* | NOT FOUND |
 | Autoria |  |  | http://autoria.io/ | N/P* | NOT FOUND |
 | Balance Open |  |  | https://balancemy.money/ | N/P* | NOT FOUND |
@@ -125,7 +126,7 @@
 | Genesis Water Token |  |  | http://watertoken.io/ | N/P* | NOT FOUND |
 | Getgame |  |  | https://getgame.io/ | N/P* | NOT FOUND |
 | Hive Project |  |  | https://www.hive-project.net/ | N/P* | NOT FOUND |
-| HORIZON |  |  | http://horizoncomm.co/ | N/P* | NOT FOUND |
+| HORIZON|  |  | http://horizoncomm.co/ | N/P* | NOT FOUND |
 | Hubcoin |  |  | https://www.coinexchange.io/market/HUB/BTC | N/P* | NOT FOUND |
 | Internxt |  |  | https://internxt.io/ | N/P* | NOT FOUND |
 | Kexcoin |  |  | https://kexcoin.com/ | N/P* | NOT FOUND |
@@ -197,7 +198,7 @@
 | After Ether | BLOCKCHAIN SCALABILITY BY BLOCKCHAIN CLUSTERING | http://afterether.org/blockchain-scalability-by-blockchain-clustering.html | http://afterether.org/ | N/P* | NOT PDF |
 | Aida Market | AUTOMATED SERVICE OF SALES WITH DECENTRALIZED DB OF all transactions and ratings of goods and suppliers on a block chain technology | https://docsend.com/view/69jy9c5 | http://ico.aida.market/ | N/P* | NOT PDF |
 | AMCHART | AN AMSYS COMPANY | http://amchart.io/white-paper/ | http://amchart.io/ | N/P* | NOT PDF |
-| Anacoin | Peace through technology | https://docsend.com/view/yqiyh32 | https://ananas.org.uk/ | N/P* | NOT PDF |
+| Anacoin | PM7 | https://docsend.com/view/yqiyh32 | https://ananas.org.uk/ | N/P* | NOT PDF |
 | Aphelion | P2P Digital Asset Distribution | https://aphelion.org/wp.html | https://apheliontoken.com/ | N/P* | NOT PDF |
 | Astronaut | Astronaut | https://astronaut.docsend.com/view/p4iazfu | https://astronaut.capital/ | N/P* | NOT PDF |
 | Authorship | A Step towards Decentralization of the Internet | https://view.joomag.com/authorship-white-paper-authorship-white-paper/0120750001501521493?short | http://authorship.com/ | N/P* | NOT PDF |
@@ -213,7 +214,7 @@
 | Charg Coin |  | https://www.charg.io/white-paper-roadmap | https://www.charg.io/ | N/P* | NOT PDF |
 | Commodity Ad Network | Commodity Ad Network | https://commodityadnetwork.com/whitepaper/ | https://commodityadnetwork.com/ico/ | N/P* | NOT PDF |
 | Connect Job |  | https://ru.calameo.com/read/005345675300d0189a74e | https://ico.connectjob.io/ | N/P* | NOT PDF |
-| Cryptoalias | Get your Blockchain Identity | https://www.cryptoalias.io/whitepaper/ | https://www.cryptoalias.io/ | N/P* | NOT PDF |
+| Cryptoalias| get your Blockchain Identity | https://www.cryptoalias.io/whitepaper/ |https://www.cryptoalias.io/ | N/P* | NOT PDF |
 | Crypto Mutual Coin | CRYPTO MUTUAL COIN | https://gist.github.com/ccmut56/0bc7d73a9c8fda1f9dbd7a02d8be9d08 | http://cryptomc.com/index.html | N/P* | NOT PDF |
 | Demicoin | DEMICOIN | https://demicoin.io/whitepaper | https://demicoin.io/ | N/P* | NOT PDF |
 | Dharma | Dharma: A Generic Protocol for Tokenized Debt Issuance | https://whitepaper.dharma.io/#faq | https://dharma.io/ | N/P* | NOT PDF |
