@@ -1225,7 +1225,7 @@
 | Peer mountain | The only decentralized ID protection, trust, and compliance ecosystem | https://www.peermountain.com/peermountain-whitepaper.pdf | https://www.peermountain.com/ | N/P* |
 | Peerplays | A Provably Fair Blockchain-Based Gaming Platform | https://www.peerplays.com/docs/Peerplays_Whitepaper.pdf | https://www.peerplays.com/ | Jonathan Baha’i, Michael P. Maloney |
 | Persona | Zero Knowledge Identity Blockchain | https://persona.im/documents/whitepaper-v1.pdf | https://persona.im/ | N/P* |
-| Phitoken | Platform for Hybrid Investments | https://firebasestorage.googleapis.com/v0/b/phi-tokens.appspot.com/o/docs%2FPhiLightPaper.pdf | https://www.phitoken.io/en/ | N/P* |
+| Phitoken | Platform for Hybrid Investments | https://firebasestorage.googleapis.com/v0/b/phi-tokens.appspot.com/o/docs%2FPhiLightPaper.pdf?alt=media&token=1b376572-0125-40a5-b44f-24b65e2c1a3b | https://www.phitoken.io/en/ | N/P* |
 | Phoscoin | Change the way you pay | https://phoscoin.com/whitepaper.pdf | https://phoscoin.com/ | N/P* |
 | Pibble | MONETIZED IMAGE ECOSYSTEM | https://www.pibble.io/uploads/PIBBLE_Whitepaper_EN_1.2.pdf | https://www.pibble.io/ | N/P* |
 | Pikciochain | PikcioChain | https://pikciochain.com/static/files/PikcioChain%5FWhitepaper%5FEnglish.pdf | https://pikciochain.com/ | N/P* |
