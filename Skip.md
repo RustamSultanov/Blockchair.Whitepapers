@@ -502,6 +502,7 @@
 | Glocal |  |  | https://www.projectglocal.org/ | N/P* | NOT WORKING |
 | GOLDEA | GOLDEA | https://www.goldea.io/docs/goldea/actual/GOLDEA-WhitePaperEng.pdf | https://www.goldea.io/ | N/P* | NOT WORKING |
 | Golden Mile |  |  | https://www.goldenmile.io/ | N/P* | NOT WORKING |
+| Goldexchanges |  |  | http://www.goldexchanges.io/ | N/P* | NOT WORKING |
 | GoMineWorld | GoMineWorld | http://gomineworld.com/whitepaper_en.pdf | http://gomineworld.com/ | N/P* | NOT WORKING |
 | Grant Hero Foundation |  |  | https://crowdsale.granthero.ngo/ | N/P* | NOT WORKING |
 | Gx Coin |  |  | https://www.genevieveco.com/ | N/P* | NOT WORKING |
@@ -609,3 +610,4 @@
 | World Of Battles |  |  | https://ico.worldofbattles.io/ | N/P* | NOT WORKING |
 | Wwam |  |  | http://wwam.io/ | N/P* | NOT WORKING |
 | XWIN CryptoBet | XWIN CryptoBet | https://xwin.io/WhitepaperXWINEN.pdf | https://xwin.io/en | N/P* | NOT WORKING |
+| Yumerium |  |  | http://www.yumerium.com/ | N/P* | NOT WORKING |
